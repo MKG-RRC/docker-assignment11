@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/docker-assignment11/static/css/main.e6c13ad2.css",
+    "main.js": "/docker-assignment11/static/js/main.d2f66833.js",
+    "static/js/453.7f828372.chunk.js": "/docker-assignment11/static/js/453.7f828372.chunk.js",
+    "index.html": "/docker-assignment11/index.html",
+    "main.e6c13ad2.css.map": "/docker-assignment11/static/css/main.e6c13ad2.css.map",
+    "main.d2f66833.js.map": "/docker-assignment11/static/js/main.d2f66833.js.map",
+    "453.7f828372.chunk.js.map": "/docker-assignment11/static/js/453.7f828372.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d2f66833.js"
+  ]
+}
